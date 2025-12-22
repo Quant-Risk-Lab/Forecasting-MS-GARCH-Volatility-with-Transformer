@@ -1,1 +1,1 @@
-# Forecasting MS-GARCH Volatility and CVaR with Transformer and GAN
+# Estimation of Volatility and ES with Variational Auto-Encoder
